@@ -1,0 +1,17 @@
+img{
+    width : 160px;
+    height: 210px;
+    object-fit: cover;
+    display: flex;
+    border-radius: 10px;
+}
+.gallery{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 20px;
+}
+.modal{
+    margin-top: 50px;
+    margin-left: 45%;
+}
